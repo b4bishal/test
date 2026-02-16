@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "bishalll",
+            "enrollment_date": "2026-02-15 07:52:16",
+            "image_count": 7,
+            "image_paths": [
+                "face_data/bishalll/bishalll_1.jpg",
+                "face_data/bishalll/bishalll_2.jpg",
+                "face_data/bishalll/bishalll_3.jpg",
+                "face_data/bishalll/bishalll_4.jpg",
+                "face_data/bishalll/bishalll_5.jpg",
+                "face_data/bishalll/bishalll_6.jpg",
+                "face_data/bishalll/bishalll_7.jpg"
+            ]
+        }
+    ]
+}
